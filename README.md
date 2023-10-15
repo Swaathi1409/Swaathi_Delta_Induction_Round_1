@@ -1,4 +1,4 @@
-#Delta_Induction_Round_1_Swaathi
+#Delta_Induction_Round_Swaathi
 
 **Things I have completed in this Induction round-1:**
 
